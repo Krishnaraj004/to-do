@@ -1,0 +1,29 @@
+.full{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+    margin: 0 auto;
+}
+
+.field{
+    background-color: rgb(7, 7, 61);
+    color: white;
+    height: 300px;
+    width: 350px;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+    font-size: 22px;
+    padding: 10px;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+    
+}
+
+input{
+    background-color: blueviolet;
+}
